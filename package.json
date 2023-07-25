@@ -18,7 +18,7 @@
     "format": "prettier . --write"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^5.0.0",
+    "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
     "@hapi/boom": "^10.0.0",
     "@ookamiiixd/baileys-store": "^1.0.0-beta.0",
     "@prisma/client": "^4.7.1",
